@@ -1,0 +1,16 @@
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\bin\Debug\UnitTest.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\bin\Debug\UnitTest.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\bin\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\bin\Debug\MySql.Data.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\bin\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\obj\Debug\UnitTest.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\obj\Debug\UnitTest.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\bin\Debug\UnitTest.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\bin\Debug\UnitTest.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\bin\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\bin\Debug\MySql.Data.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\bin\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\obj\Debug\UnitTest.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\UnitTest\obj\Debug\UnitTest.pdb

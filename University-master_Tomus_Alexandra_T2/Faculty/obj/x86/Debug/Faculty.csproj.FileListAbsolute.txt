@@ -1,0 +1,82 @@
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.exe.config
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.exe
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.pdb
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.exe
+D:\School\SD\Labs\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.pdb
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.exe.config
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.exe
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.pdb
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.exe
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.pdb
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\MySql.Data.dll
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+D:\School\SD\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.exe.config
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.exe
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.pdb
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.exe
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\Faculty.pdb
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\bin\Debug\MySql.Data.dll
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.csprojResolveAssemblyReference.cache
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+E:\School\PS2016\Labs\Lab03\Lab03\FacultyWinForms\Faculty\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\bin\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\bin\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\bin\Debug\MySql.Data.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\New folder\University-master\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\New folder\University-master\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\New folder\University-master\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.FormCourse.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\bin\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\bin\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab2\University-master\University-master\Faculty\bin\Debug\MySql.Data.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\University-master\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\University-master\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha\University-master\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\bin\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\bin\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\bin\Debug\MySql.Data.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.FormCourse.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\ContinuareL2Lab27\ContinuareL2Lab2\Miha1\Miha\University-master\University-master\Faculty\obj\x86\Debug\Faculty.FormEnroll.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\bin\Debug\Faculty.exe.config
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\bin\Debug\Faculty.exe
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\bin\Debug\Faculty.pdb
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\bin\Debug\MySql.Data.dll
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.FormCourse.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.FormEnroll.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.FormFaculty.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.Properties.Resources.resources
+D:\Facultate\Anul 3\SemII\PS\Laborator\L3\Tema2\Final\University-master\Faculty\obj\x86\Debug\Faculty.csproj.GenerateResource.Cache
